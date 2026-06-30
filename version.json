@@ -1,0 +1,8 @@
+{
+    "version": "MT.09",
+    "build": 9,
+    "download": "https://github.com/vominhtruong102-ui/MT_panel/releases/download/MT.09/MT_panel_MT.09.rbz",
+    "force": false,
+    "title": "MT Panel MT.09",
+    "note": "Sửa lỗi toolbar, sửa lỗi mã hóa .rbe, thêm Trial 7 ngày."
+}
